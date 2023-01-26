@@ -1,102 +1,102 @@
-
-  \{\
-    "Name": "Configuration",\
-    "Code": "CONFIGURATION",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Configuration",\
-      "Url": "/configuration", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Customers",\
-    "Code": "CRM",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Customers",\
-      "Url": "/crm", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Finance",\
-    "Code": "FINANCIALS",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Finance",\
-      "Url": "/financials", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Orders",\
-    "Code": "ORDERS",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Orders",\
-      "Url": "/orders", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Organizations",\
-    "Code": "ORGANIZATIONS",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Organizations",\
-      "Url": "/organizations", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Products",\
-    "Code": "PIM",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Products",\
-      "Url": "/pim", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Promotions &\'94 Discounts,\
-    "Code": "DISCOUNTS",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Promotions & Discounts,\
-      "Url": "/promotions", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Settings",\
-    "Code": "SETIINGS",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Settings",\
-      "Url": "/settings", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Stock",\
-    "Code": "STOCKMANAGEMENT",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Stock",\
-      "Url": "/stock-management", \
-      "Actions":[]\
-    \}\
-  \},\
-  \{\
-    "Name": "Tasks",\
-    "Code": "TASKS",\
-    "IsActive": true,\
-    "Data": \{\
-      "Title": "Tasks",\
-      "Url": "/tasks", \
-      "Actions":[]\
-    \}\
-  \}\
+[
+  {
+    "Name": "Configuration",
+    "Code": "CONFIGURATION",
+    "IsActive": true,
+    "Data": {
+      "Title": "Configuration",
+      "Url": "/configuration", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Customers",
+    "Code": "CRM",
+    "IsActive": true,
+    "Data": {
+      "Title": "Customers",
+      "Url": "/crm", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Finance",
+    "Code": "FINANCIALS",
+    "IsActive": true,
+    "Data": {
+      "Title": "Finance",
+      "Url": "/financials", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Orders",
+    "Code": "ORDERS",
+    "IsActive": true,
+    "Data": {
+      "Title": "Orders",
+      "Url": "/orders", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Organizations",
+    "Code": "ORGANIZATIONS",
+    "IsActive": true,
+    "Data": {
+      "Title": "Organizations",
+      "Url": "/organizations", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Products",
+    "Code": "PIM",
+    "IsActive": true,
+    "Data": {
+      "Title": "Products",
+      "Url": "/pim", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Promotions &\'94 Discounts,
+    "Code": "DISCOUNTS",
+    "IsActive": true,
+    "Data": {
+      "Title": "Promotions & Discounts,
+      "Url": "/promotions", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Settings",
+    "Code": "SETIINGS",
+    "IsActive": true,
+    "Data": {
+      "Title": "Settings",
+      "Url": "/settings", 
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Stock",
+    "Code": "STOCKMANAGEMENT",
+    "IsActive": true,
+    "Data": {
+      "Title": "Stock",
+      "Url": "/stock-management",
+      "Actions":[]
+    }
+  },
+  {
+    "Name": "Tasks",
+    "Code": "TASKS",
+    "IsActive": true,
+    "Data": {
+      "Title": "Tasks",
+      "Url": "/tasks", 
+      "Actions":[]
+    }
+  }
 ]}
