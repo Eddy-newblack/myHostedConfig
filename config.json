@@ -60,11 +60,11 @@
     }
   },
   {
-    "Name": "Promotions & Discounts,
+    "Name": "Promotions & Discounts",
     "Code": "DISCOUNTS",
     "IsActive": true,
     "Data": {
-      "Title": "Promotions & Discounts,
+      "Title": "Promotions & Discounts",
       "Url": "/promotions", 
       "Actions":[]
     }
